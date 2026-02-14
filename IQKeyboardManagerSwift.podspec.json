@@ -71,6 +71,29 @@
             }
         }
     ],
+    "dependencies": {
+        "Adjust": [
+          "~> 5.5.1"
+        ],
+        "Adjust/AdjustWebBridge": [
+          "~> 5.5.1"
+        ],
+        "IronSourceSDK": [
+          "~> 9.2.0.0"
+        ],
+        "IronSourceAppLovinAdapter": [
+          "~> 5.2.0.0"
+        ],
+        "IronSourceChartboostAdapter": [
+          "~> 5.2.0.0"
+        ],
+        "IronSourceUnityAdsAdapter": [
+          "~> 5.3.0.0"
+        ],
+        "AppsFlyerFramework": [
+          "~> 6.16.0"
+        ]
+    },
     "default_subspecs": [
         "Appearance",
         "Core",
