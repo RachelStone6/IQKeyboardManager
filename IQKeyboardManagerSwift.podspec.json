@@ -75,9 +75,6 @@
         "Adjust": [
           "~> 5.5.1"
         ],
-        "Adjust/AdjustWebBridge": [
-          "~> 5.5.1"
-        ],
         "IronSourceSDK": [
           "~> 9.2.0.0"
         ],
